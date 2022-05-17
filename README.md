@@ -33,4 +33,6 @@ Project dikerjakan oleh :
 
 Link repository github :
 <a href="https://github.com/amandaarga/UASLabPBW.git" target="_blank"> Disini</a>
+<a href="https://youtu.be/bgms9x3B5-o" target="_blank"> Disini</a>
+
     
