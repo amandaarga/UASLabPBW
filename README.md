@@ -2,9 +2,9 @@
 
 ## <b><big>AddStock</big></b>
     
-    <p align="center">    AddStock merupakan website untuk membantumu dalam mengelola stokmu dengan lebih mudah dan efisien, 
+ <p align="center">AddStock merupakan website untuk membantumu dalam mengelola stokmu dengan lebih mudah dan efisien, 
     sehingga stok dapat lebih mudah terkendali dan meningkatkan produktifitasmu tanpa harus bingung memikirkan 
-    stok dan meminimalisir kerugian tokomu.</p>
+    stok dan meminimalisir kerugian tokomu</p>
     
 <h4>𝐓𝐀𝐌𝐏𝐈𝐋𝐀𝐍</h4>
   
@@ -32,4 +32,5 @@ Project dikerjakan oleh :
 | Amanda Arga Nabila |  2008107010093 |
 
 Link repository github :
+<a href="https://github.com/amandaarga/UASLabPBW.git" target="_blank"> Disini</a>
     
