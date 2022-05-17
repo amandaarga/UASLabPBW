@@ -7,20 +7,10 @@
     stok dan meminimalisir kerugian tokomu</p>
     
 <h4>𝐓𝐀𝐌𝐏𝐈𝐋𝐀𝐍</h4>
-  
-  
-  
 <h4>𝐂𝐑𝐄𝐀𝐓𝐄</h4>
-  
-   
-  
-<h4>𝐑𝐄𝐀𝐃</h4>
-  
-  
-  
+<h4>𝐑𝐄𝐀𝐃</h4> 
 <h4>𝐔𝐏𝐃𝐀𝐓𝐄 & 𝐃𝐄𝐋𝐄𝐓𝐄</h4>
 
-  
   Apa saja yang terdapat pada website ini?
   1. Bisa menambahkan data
   2. Mengupdate data yang mau di update
@@ -33,6 +23,7 @@ Project dikerjakan oleh :
 
 Link repository github :
 <a href="https://github.com/amandaarga/UASLabPBW.git" target="_blank"> Disini</a>
+Link Video Presentasi :
 <a href="https://youtu.be/bgms9x3B5-o" target="_blank"> Disini</a>
 
     
